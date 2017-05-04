@@ -1,5 +1,7 @@
 # Typed Node Noop  [![Build Status](https://travis-ci.org/typed-typings/npm-node-noop.svg?branch=master)](https://travis-ci.org/typed-typings/npm-node-noop)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-node-noop.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`node-noop`](git://github.com/euank/node-noop.git)
 
